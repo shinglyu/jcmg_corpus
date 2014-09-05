@@ -54,6 +54,7 @@ One of the performer (涂智展) didn't finish all the pieces in Op.36. The name
 
   All the split phrase files are in the ./corpus/split folder.
   Each sample comes in the following filename:
+
     [performer name]_clementi_sonatina-36-[no]-[movement no]-[phrase no].perf.mid  //performance
     [performer name]_clementi_sonatina-36-[no]-[movement no]-[phrase no].score.xml //score
   
