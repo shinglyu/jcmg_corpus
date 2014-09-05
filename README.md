@@ -16,14 +16,14 @@ Last modified: 2014/09/05
   The corpus consists of 6 set of recordings of Muzio Clementi's Sonatinas Op.36 (See Appendix A), recorded by 6 graduate students (not majored in music).
 One of the performer (涂智展) didn't finish all the pieces in Op.36. The name of the performers are listed below:
 
-Codename	Real name
---------------------------
-wei  		魏振宇
-jen  		任俞仲
-jung 		鍾  愛
-lin  		林宗緯
-lian 		林廉喬
-tu   		涂智展
+|Codename       |Real name|
+|-------|-------------------|
+|wei  	|	魏振宇|
+|jen  	|	任俞仲|
+|jung 	|	鍾  愛|
+|lin  	|	林宗緯|
+|lian 	|	林廉喬|
+|tu   	|	涂智展|
 
   The recordings, along with their corresponding scores, come in two formats: a whole piece and a piece split into phrases. The phrasing is given by the author. The phrasing information is also provided, so you can split a piece into phrases manually.
 
